@@ -28,3 +28,5 @@ System.Exception
    at Neodynamic.SDK.ZPLPrinter.ZPLPrinter..ctor(String licenseOwner, String licenseKey)
    at ZPL_Net6.Program.Main(String[] args) in C:\Users\tim.degold\source\repos\TestZPL\ZPL_Net6\Program.cs:line 12
 ```
+
+This repo is referenced in [this issue](https://github.com/neodynamic/ZPL-Printer-Emulator-SDK/issues/6)
