@@ -1,3 +1,5 @@
+# As of version 3.0.21.825 the package Neodynamic.SDL.ZPLPrinter supports .Net6 and this issue is cloed!
+
 # TestZPL
 Neodynamic.Sdk.ZPLPrinter v3.0.21.813 does not yet support .Net6. When instantiating a `ZPLPrinter` object the following exception gets thrown. This does not happen in .Net5 nor .NetCore3.1
 
